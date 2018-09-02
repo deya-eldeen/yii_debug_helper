@@ -1,4 +1,4 @@
-it simply makes a pretty dump of a object
+it simply makes a pretty dump of an object
 
 ![alt text](image.png)
 
